@@ -1,1 +1,1 @@
-# kidbright-arduino-board
+# OpenKB computing controller board for KB-IDE
